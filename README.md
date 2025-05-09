@@ -37,5 +37,3 @@ This project explores and analyzes Netflix's content dataset to uncover trends i
 ![image](https://github.com/user-attachments/assets/e79b6974-c71f-404f-b80c-6ded881b1fe9)
 ![image](https://github.com/user-attachments/assets/ac3c9f2c-7e56-4939-8f7d-ca94e7aa5bcf)
 
-
-![Genre Chart](images/genre-distribution.png)
