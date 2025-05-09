@@ -32,8 +32,7 @@ This project explores and analyzes Netflix's content dataset to uncover trends i
 - Yearly trend of content addition
 - Top countries by volume of content
 
-📸 *Screenshots section*
-```markdown
-![image](https://github.com/user-attachments/assets/e79b6974-c71f-404f-b80c-6ded881b1fe9)
-![image](https://github.com/user-attachments/assets/ac3c9f2c-7e56-4939-8f7d-ca94e7aa5bcf)
+## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/21e3d628-8fb4-4319-b5fe-b9650feca120) ![image](https://github.com/user-attachments/assets/e66698c5-762b-4511-bc4a-08befc4a2435)
+
 
